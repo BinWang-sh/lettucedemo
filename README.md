@@ -14,5 +14,5 @@
 * lettuceConnectionFactory.setShareNativeConnection(false);
 
 ##### redis-cli
-Using command "info clients" can confirm current the number of connected clients
+Using command "info clients" can confirm the number of connected clients
 
